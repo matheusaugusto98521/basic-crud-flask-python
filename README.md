@@ -16,7 +16,7 @@ Essa é a interação de adicionar um novo usuário:
 
 
 
-**Rota "/getAll' Exibi todos os usuários criados:**
+**Rota "/getAll' Exibe todos os usuários criados:**
 
 ![Exibir usuários](images/result-insert.png)
 
